@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: f5c601d22566dc24db5bd6b317e03c6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8351343423202896398
+    second: Elefat_-_puslespil_0
+  - first:
+      213: 2835587162763850349
+    second: Elefat_-_puslespil_1
+  - first:
+      213: -3842551393457291080
+    second: Elefat_-_puslespil_2
+  - first:
+      213: -455666180767915932
+    second: Elefat_-_puslespil_3
+  - first:
+      213: 6687005036604807369
+    second: Elefat_-_puslespil_4
+  - first:
+      213: -5821464279606570680
+    second: Elefat_-_puslespil_5
+  - first:
+      213: -3410651301379270801
+    second: Elefat_-_puslespil_6
+  - first:
+      213: 1701658052494023670
+    second: Elefat_-_puslespil_7
+  - first:
+      213: 5347192615283097014
+    second: Elefat_-_puslespil_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407.3333
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f552b667611a1c80800000000000000
+      internalID: -8351343423202896398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 407.3333
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62723e30870a5720800000000000000
+      internalID: 2835587162763850349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 407.3333
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0cbc9cdd38caac0800000000000000
+      internalID: -3842551393457291080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204.33333
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606b27d5062da9f0800000000000000
+      internalID: -455666180767915932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 204.33333
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d31ac6a30dcc50800000000000000
+      internalID: 6687005036604807369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 204.33333
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841dc65c411063fa0800000000000000
+      internalID: -5821464279606570680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67909836beeaa0d0800000000000000
+      internalID: -3410651301379270801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1.3333282
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd614abf08d9710800000000000000
+      internalID: 1701658052494023670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elefat_-_puslespil_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1.3333282
+        width: 246.66667
+        height: 203.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7a8b5a5b053a40800000000000000
+      internalID: 5347192615283097014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
